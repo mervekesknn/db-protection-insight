@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rule-1",
+    "ruleName": "Unencrypted Connection Attempt",
+    "severity": "High",
+    "triggerCount": 42,
+    "affectedUsersCount": 5,
+    "users": [
+      { "id": "u1", "name": "alice@example.com", "team": "Platform", "triggerCount": 20 },
+      { "id": "u2", "name": "bob@example.com", "team": "Platform", "triggerCount": 10 },
+      { "id": "u3", "name": "carol@example.com", "team": "Analytics", "triggerCount": 7 },
+      { "id": "u4", "name": "dave@example.com", "team": "Finance", "triggerCount": 5 }
+    ]
+  },
+  {
+    "id": "rule-2",
+    "ruleName": "Excessive Privilege Usage",
+    "severity": "Medium",
+    "triggerCount": 18,
+    "affectedUsersCount": 3,
+    "users": [
+      { "id": "u5", "name": "eve@example.com", "team": "Security", "triggerCount": 8 },
+      { "id": "u6", "name": "frank@example.com", "team": "Engineering", "triggerCount": 6 }
+    ]
+  },
+  {
+    "id": "rule-3",
+    "ruleName": "Suspicious Read Pattern",
+    "severity": "Low",
+    "triggerCount": 7,
+    "affectedUsersCount": 2,
+    "users": [
+      { "id": "u7", "name": "grace@example.com", "team": "Sales", "triggerCount": 4 },
+      { "id": "u8", "name": "heidi@example.com", "team": "Support", "triggerCount": 3 }
+    ]
+  }
+]

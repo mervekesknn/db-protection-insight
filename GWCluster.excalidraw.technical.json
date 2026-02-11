@@ -1,0 +1,41 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {"id":"mx","type":"rectangle","x":40,"y":30,"width":220,"height":90,"angle":0,"strokeColor":"#1F497D","backgroundColor":"#DDEEFF","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":1111,"version":1,"versionNonce":11111111,"isDeleted":false},
+    {"id":"mx-text","type":"text","x":60,"y":50,"angle":0,"text":"MX (Manager)","fontSize":14,"fontFamily":1,"textAlign":"left","verticalAlign":"top","strokeColor":"#000000","backgroundColor":"transparent","width":180,"height":20,"seed":2222,"version":1,"versionNonce":22222222,"isDeleted":false},
+
+    {"id":"gw-cluster","type":"rectangle","x":300,"y":20,"width":520,"height":140,"angle":0,"strokeColor":"#8B5E3C","backgroundColor":"#FFF2E6","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":3333,"version":1,"versionNonce":33333333,"isDeleted":false},
+
+    {"id":"gw1","type":"ellipse","x":360,"y":60,"width":110,"height":64,"angle":0,"strokeColor":"#000000","backgroundColor":"#FFF2CC","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":4444,"version":1,"versionNonce":44444444,"isDeleted":false},
+    {"id":"gw1-text","type":"text","x":390,"y":60,"angle":0,"text":"Gateway 1\n(Collector)","fontSize":12,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#000000","backgroundColor":"transparent","width":80,"height":30,"seed":4445,"version":1,"versionNonce":44444445,"isDeleted":false},
+
+    {"id":"gw2","type":"ellipse","x":500,"y":60,"width":110,"height":64,"angle":0,"strokeColor":"#000000","backgroundColor":"#FFF2CC","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":5555,"version":1,"versionNonce":55555555,"isDeleted":false},
+    {"id":"gw2-text","type":"text","x":530,"y":60,"angle":0,"text":"Gateway 2\n(Collector)","fontSize":12,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#000000","backgroundColor":"transparent","width":80,"height":30,"seed":5556,"version":1,"versionNonce":55555556,"isDeleted":false},
+
+    {"id":"gw3","type":"ellipse","x":640,"y":60,"width":110,"height":64,"angle":0,"strokeColor":"#000000","backgroundColor":"#FFF2CC","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":5557,"version":1,"versionNonce":55555557,"isDeleted":false},
+    {"id":"gw3-text","type":"text","x":670,"y":60,"angle":0,"text":"Gateway 3\n(Collector)","fontSize":12,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#000000","backgroundColor":"transparent","width":80,"height":30,"seed":5558,"version":1,"versionNonce":55555558,"isDeleted":false},
+
+    {"id":"db-group","type":"rectangle","x":120,"y":200,"width":560,"height":90,"angle":0,"strokeColor":"#3C8E3C","backgroundColor":"#E8F8E8","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":6666,"version":1,"versionNonce":66666666,"isDeleted":false},
+    {"id":"db-group-text","type":"text","x":140,"y":210,"angle":0,"text":"DB Servers (Agents)\n[multiple instances]","fontSize":12,"fontFamily":1,"textAlign":"left","verticalAlign":"top","strokeColor":"#000000","backgroundColor":"transparent","width":260,"height":36,"seed":6667,"version":1,"versionNonce":66666667,"isDeleted":false},
+
+    {"id":"syslog","type":"rectangle","x":760,"y":200,"width":160,"height":70,"angle":0,"strokeColor":"#000000","backgroundColor":"#F5E6FF","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":9999,"version":1,"versionNonce":99999999,"isDeleted":false},
+    {"id":"syslog-text","type":"text","x":780,"y":220,"angle":0,"text":"External Syslog\nCollector","fontSize":12,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#000000","backgroundColor":"transparent","width":120,"height":36,"seed":9998,"version":1,"versionNonce":99999998,"isDeleted":false},
+
+    {"id":"arrow_agents_gw","type":"arrow","x":260,"y":170,"points":[[0,-10],[220,-110]],"angle":0,"strokeColor":"#007A3D","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"roughness":0,"opacity":100,"seed":1212,"version":1,"versionNonce":12121212,"isDeleted":false},
+    {"id":"label_agents_gw","type":"text","x":340,"y":140,"angle":0,"text":"Agent → Gateway: HTTPS 443, SSL 5555","fontSize":10,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#003300","backgroundColor":"transparent","width":240,"height":20,"seed":1313,"version":1,"versionNonce":13131313,"isDeleted":false},
+
+    {"id":"arrow_gw_mx","type":"arrow","x":380,"y":120,"points":[[-40,-20],[-260,-20]],"angle":0,"strokeColor":"#0B5394","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"roughness":0,"opacity":100,"seed":1414,"version":1,"versionNonce":14141414,"isDeleted":false},
+    {"id":"label_gw_mx","type":"text","x":300,"y":100,"angle":0,"text":"Gateway ↔ MX: 8083 (HTTPS), 8085 (cert), 22 (SSH), 443 (HTTPS)","fontSize":10,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#003366","backgroundColor":"transparent","width":420,"height":20,"seed":1515,"version":1,"versionNonce":15151515,"isDeleted":false},
+
+    {"id":"arrow_gw_syslog","type":"arrow","x":700,"y":160,"points":[[0,20],[60,40]],"angle":0,"strokeColor":"#7F6000","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"roughness":0,"opacity":100,"seed":1717,"version":1,"versionNonce":17171717,"isDeleted":false},
+    {"id":"label_gw_syslog","type":"text","x":670,"y":140,"angle":0,"text":"Gateway → Syslog: UDP/TCP 514","fontSize":10,"fontFamily":1,"textAlign":"center","verticalAlign":"middle","strokeColor":"#3D2500","backgroundColor":"transparent","width":240,"height":20,"seed":1718,"version":1,"versionNonce":17181718,"isDeleted":false},
+
+    {"id":"legend-box","type":"rectangle","x":20,"y":320,"width":460,"height":130,"angle":0,"strokeColor":"#333333","backgroundColor":"#F7F7F7","fillStyle":"solid","strokeWidth":1,"roughness":0,"opacity":100,"seed":2020,"version":1,"versionNonce":20202020,"isDeleted":false},
+    {"id":"legend-title","type":"text","x":30,"y":332,"angle":0,"text":"Ports & Protocols","fontSize":12,"fontFamily":1,"textAlign":"left","verticalAlign":"top","strokeColor":"#000000","backgroundColor":"transparent","width":200,"height":18,"seed":2021,"version":1,"versionNonce":20212021,"isDeleted":false},
+    {"id":"legend-lines","type":"text","x":30,"y":350,"angle":0,"text":"Agent → Gateway: HTTPS 443, SSL 5555\nGateway ↔ MX: HTTPS 8083 (primary), 8085 (cert), SSH 22, HTTPS 443\nGateway → Syslog: UDP 514 / TCP 514\nMX → Internet: HTTPS 443\nNTP: UDP 123 | DNS: TCP/UDP 53\nGateway Cluster: 7700/tcp, 3792/tcp, 3792/udp","fontSize":10,"fontFamily":1,"textAlign":"left","verticalAlign":"top","strokeColor":"#000000","backgroundColor":"transparent","width":420,"height":80,"seed":2022,"version":1,"versionNonce":20222022,"isDeleted":false}
+  ],
+  "appState": {"viewBackgroundColor":"#ffffff","gridSize":null},
+  "files": {}
+}

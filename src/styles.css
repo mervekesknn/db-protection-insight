@@ -1,0 +1,30 @@
+:root{
+  --bg: #0f1720;
+  --panel: #0b1220;
+  --muted: #94a3b8;
+  --text: #e6eef8;
+  --accent: #10b981;
+  --high:#ef4444;
+  --medium:#f97316;
+  --low:#10b981;
+}
+
+*{box-sizing:border-box}
+body{font-family:Inter, system-ui, Arial, sans-serif;background:linear-gradient(180deg,#071021, #071428);color:var(--text);margin:0;padding:20px}
+.app{max-width:980px;margin:0 auto}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+.header h1{font-size:18px;margin:0}
+.header a{color:var(--muted);text-decoration:none;margin-left:12px}
+.panel{background:rgba(255,255,255,0.02);padding:18px;border-radius:8px}
+.table{width:100%;border-collapse:collapse;margin-top:12px}
+.table th{color:var(--muted);text-align:left;padding:10px 8px;font-size:13px}
+.table td{padding:10px 8px;border-top:1px solid rgba(255,255,255,0.03)}
+.clickable-row td{cursor:default}
+.rule-link{color:var(--text);text-decoration:none}
+.rule-link:hover{text-decoration:underline}
+.severity{padding:6px 8px;border-radius:6px;font-weight:600}
+.severity-high{background:rgba(239,68,68,0.09);color:var(--high)}
+.severity-medium{background:rgba(249,115,22,0.06);color:var(--medium)}
+.severity-low{background:rgba(16,185,129,0.06);color:var(--low)}
+.detail-header{display:flex;justify-content:space-between;align-items:center}
+.footer{color:var(--muted);font-size:13px;margin-top:18px}

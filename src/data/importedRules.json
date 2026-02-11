@@ -1,0 +1,56 @@
+[
+  {
+    "id": "imported-1",
+    "ruleName": "ATLAS Kritik Objeler",
+    "severity": "High",
+    "triggerCount": 5,
+    "affectedUsersCount": 1,
+    "users": [
+      {
+        "id": "keskinme",
+        "name": "keskinme",
+        "team": "Veri G�venli�i Y�netimi",
+        "systemDate": "23.06.2026 19:46",
+        "activityDescription": "Deneme1 ama�l�d�r.",
+        "severity": "High",
+        "triggerCount": 5
+      }
+    ]
+  },
+  {
+    "id": "imported-2",
+    "ruleName": "SRVDNZ Kritik Objeler",
+    "severity": "Medium",
+    "triggerCount": 12,
+    "affectedUsersCount": 1,
+    "users": [
+      {
+        "id": "scakici",
+        "name": "scakici",
+        "team": "Kimlik Eri�im Y�nentimi",
+        "systemDate": "13.07.2026 20:46",
+        "activityDescription": "Deneme1 ama�l�d�r.",
+        "severity": "Medium",
+        "triggerCount": 12
+      }
+    ]
+  },
+  {
+    "id": "imported-3",
+    "ruleName": "DENIZ Kritik Objeler",
+    "severity": "Low",
+    "triggerCount": 1,
+    "affectedUsersCount": 1,
+    "users": [
+      {
+        "id": "scakici",
+        "name": "scakici",
+        "team": "Kimlik Eri�im Y�nentimi",
+        "systemDate": "3.01.2026 20:46",
+        "activityDescription": "Deneme1 ama�l�d�r.",
+        "severity": "Low",
+        "triggerCount": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,1001 @@
+UserName;AlarmDetail;SystemDate;Company;ActivityDescription;Severity
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 586998 | DB User Name: \ user146;23.09.2025 12:38;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;1.04.2025 18:21;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;27.06.2025 12:14;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;31.05.2026 17:01;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 559145 | DB User Name: \ user207;24.05.2026 04:23;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin37;DENIZ Kritik Objeler;2.06.2025 14:35;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 539899 | DB User Name: \ user480;10.10.2026 12:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;DENIZ Kritik Objeler;9.02.2025 09:16;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 552243 | DB User Name: \ user426;12.04.2025 06:40;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin23;Alert Description: Trigger Activities - All Database | Alert ID: 594396 | DB User Name: \ user222;12.09.2025 17:34;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser42;Alert Description: KT Yakut Kritik Objeler | Alert ID: 515693 | DB User Name: \ user434;19.11.2026 10:21;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;DENIZ Kritik Objeler;28.03.2025 17:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user207;29.11.2025 06:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user435;21.09.2025 14:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 595256 | DB User Name: \ user223;21.07.2026 23:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;DENIZ Kritik Objeler;28.09.2026 06:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user475;17.09.2025 04:58;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user222;27.12.2026 12:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 512494 | DB User Name: \ user143;27.04.2026 06:40;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user186;8.06.2025 03:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;24.03.2025 15:54;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;9.07.2025 17:41;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 568556 | DB User Name: \ user266;25.10.2025 16:52;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 505429 | DB User Name: \ user202;2.05.2026 17:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;28.08.2025 00:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;SRVDNZ Kritik Objeler;24.11.2025 15:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 539120 | DB User Name: \ user160;15.11.2026 14:27;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser31;SRVDNZ Kritik Objeler;1.01.2026 22:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;10.10.2025 14:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user264;20.08.2026 06:29;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;20.07.2026 15:44;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user233;25.04.2025 19:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 517964 | DB User Name: \ user205;1.12.2026 01:51;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser30;Alert Description: KT Yakut Kritik Objeler | Alert ID: 522987 | DB User Name: \ user402;27.07.2026 05:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 594009 | DB User Name: \ user43;15.04.2025 07:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 547236 | DB User Name: \ user56;27.01.2025 22:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 545588 | DB User Name: \ user476;13.02.2026 01:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 517503 | DB User Name: \ user391;9.08.2026 17:12;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser29;Alert Description: Authorized User Changed | Alert ID: 568759 | DB User Name: \ user215;29.10.2025 19:13;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin83;ATLAS Kritik Objeler;30.06.2026 10:18;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 513508 | DB User Name: \ user151;8.07.2025 13:10;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser3;Alert Description: Authorized User Changed | Alert ID: 514554 | DB User Name: \ user299;10.07.2025 06:47;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser12;Alert Description: Trigger Activities - All Database | Alert ID: 561940 | DB User Name: \ user320;13.06.2026 16:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin93;ATLAS Kritik Objeler;17.10.2025 10:06;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 527304 | DB User Name: \ user458;30.04.2025 06:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;DENIZ Kritik Objeler;18.01.2026 00:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user372;3.09.2025 01:50;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Authorized User Changed | Alert ID: 511902 | DB User Name: \ user124;30.08.2025 01:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 558611 | DB User Name: \ user264;4.07.2025 12:06;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 532171 | DB User Name: \ user390;4.04.2025 15:04;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;4.05.2025 10:40;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 503892 | DB User Name: \ user29;24.05.2025 11:59;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 532969 | DB User Name: \ user337;20.07.2025 00:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser88;SRVDNZ Kritik Objeler;23.08.2025 21:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user482;5.05.2025 08:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 580250 | DB User Name: \ user93;26.02.2025 01:23;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Authorized User Changed | Alert ID: 588065 | DB User Name: \ user495;19.08.2026 08:17;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser10;SRVDNZ Kritik Objeler;22.10.2025 14:43;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 514845 | DB User Name: \ user252;7.01.2026 06:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser90;Alert Description: Authorized User Changed | Alert ID: 503848 | DB User Name: \ user366;13.10.2026 19:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 523859 | DB User Name: \ user256;24.06.2025 21:28;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 533025 | DB User Name: \ user243;28.12.2026 04:31;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;SRVDNZ Kritik Objeler;3.05.2026 07:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 575081 | DB User Name: \ user283;14.06.2025 14:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;17.01.2026 07:55;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user281;20.01.2025 03:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user115;9.06.2026 18:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin59;Alert Description: Authorized User Changed | Alert ID: 577792 | DB User Name: \ user387;14.04.2026 14:50;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;18.01.2026 07:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;25.05.2026 03:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;20.12.2026 09:23;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 568284 | DB User Name: \ user354;13.08.2025 13:50;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser81;Alert Description: Authorized User Changed | Alert ID: 565162 | DB User Name: \ user252;15.07.2025 02:21;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser48;Alert Description: Authorized User Changed | Alert ID: 541308 | DB User Name: \ user84;1.02.2026 22:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser1;ATLAS Kritik Objeler;12.11.2026 13:01;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user275;28.08.2025 22:16;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 533225 | DB User Name: \ user324;13.02.2026 16:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 586036 | DB User Name: \ user136;2.09.2026 19:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser48;Alert Description: Trigger Activities - All Database | Alert ID: 575946 | DB User Name: \ user219;14.03.2025 08:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser72;DENIZ Kritik Objeler;6.08.2026 08:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;DENIZ Kritik Objeler;9.10.2026 03:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser63;ATLAS Kritik Objeler;17.02.2025 18:15;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser56;ATLAS Kritik Objeler;26.10.2026 23:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;17.03.2025 02:06;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin26;Alert Description: Trigger Activities - All Database | Alert ID: 585833 | DB User Name: \ user265;22.08.2026 00:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user12;24.02.2026 11:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;24.03.2025 19:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser59;Alert Description: Authorized User Changed | Alert ID: 505060 | DB User Name: \ user367;29.11.2026 23:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 522466 | DB User Name: \ user234;18.03.2026 20:49;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 543110 | DB User Name: \ user73;31.05.2025 18:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 534434 | DB User Name: \ user347;6.12.2025 02:21;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin90;Alert Description: KT Yakut Kritik Objeler | Alert ID: 507110 | DB User Name: \ user230;7.08.2026 01:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser76;DENIZ Kritik Objeler;14.07.2025 23:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;30.10.2025 15:39;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 531667 | DB User Name: \ user330;20.02.2025 17:44;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser87;DENIZ Kritik Objeler;12.06.2026 18:23;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user98;25.04.2025 05:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user225;11.10.2025 02:13;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 531541 | DB User Name: \ user360;19.05.2026 01:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 588836 | DB User Name: \ user153;6.05.2026 10:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user177;23.04.2025 00:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;18.04.2025 10:58;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 574662 | DB User Name: \ user421;27.11.2025 04:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin71;SRVDNZ Kritik Objeler;15.01.2026 14:35;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user372;25.12.2026 15:22;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser20;ATLAS Kritik Objeler;16.06.2025 02:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;15.09.2025 05:33;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user185;22.02.2026 15:44;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;24.01.2026 05:06;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;SRVDNZ Kritik Objeler;28.04.2025 22:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 524460 | DB User Name: \ user102;16.06.2026 13:46;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;28.09.2025 09:18;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 571864 | DB User Name: \ user262;4.07.2026 06:38;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;SRVDNZ Kritik Objeler;24.06.2026 07:06;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;22.03.2026 09:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 589691 | DB User Name: \ user60;20.05.2025 12:35;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user79;3.05.2026 06:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser91;Alert Description: KT Yakut Kritik Objeler | Alert ID: 586126 | DB User Name: \ user463;26.03.2026 23:46;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 567559 | DB User Name: \ user441;25.11.2026 19:08;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser83;SRVDNZ Kritik Objeler;2.12.2026 05:26;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 529774 | DB User Name: \ user404;31.07.2026 09:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 547203 | DB User Name: \ user389;25.07.2025 19:06;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 543600 | DB User Name: \ user245;3.04.2025 03:06;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin86;Alert Description: KT Yakut Kritik Objeler | Alert ID: 591950 | DB User Name: \ user191;6.12.2026 20:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 558074 | DB User Name: \ user199;3.10.2026 22:34;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;1.08.2026 11:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser89;Alert Description: KT Yakut Kritik Objeler | Alert ID: 586859 | DB User Name: \ user21;16.12.2025 21:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 545161 | DB User Name: \ user47;10.06.2026 03:12;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser18;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user28;19.12.2026 01:55;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;26.10.2026 21:58;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 580161 | DB User Name: \ user462;27.07.2025 11:16;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;30.01.2026 15:25;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;7.05.2025 13:38;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;SRVDNZ Kritik Objeler;17.02.2025 13:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user46;27.01.2026 05:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user350;30.11.2025 00:42;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;21.09.2025 23:20;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 533991 | DB User Name: \ user171;27.08.2025 22:01;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;6.08.2025 11:21;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 594114 | DB User Name: \ user234;25.01.2026 04:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;11.06.2025 14:37;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 505339 | DB User Name: \ user142;27.03.2025 09:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user442;11.09.2026 19:58;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;10.06.2026 12:46;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 550391 | DB User Name: \ user94;7.12.2025 03:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user62;22.02.2025 13:21;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 524835 | DB User Name: \ user331;20.11.2025 08:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 575737 | DB User Name: \ user364;6.12.2026 09:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 541458 | DB User Name: \ user494;25.01.2026 12:57;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user491;19.03.2026 19:20;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;7.04.2026 08:42;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser47;Alert Description: Authorized User Changed | Alert ID: 529605 | DB User Name: \ user25;15.09.2025 03:14;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 577616 | DB User Name: \ user311;9.04.2026 01:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user222;18.10.2025 05:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 570562 | DB User Name: \ user19;24.03.2025 10:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 520450 | DB User Name: \ user414;24.04.2025 21:25;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser61;Alert Description: KT Yakut Kritik Objeler | Alert ID: 542084 | DB User Name: \ user152;8.11.2026 12:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin23;DENIZ Kritik Objeler;12.01.2026 00:56;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin98;DENIZ Kritik Objeler;7.12.2026 02:20;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;19.09.2026 23:24;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user494;18.10.2026 13:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser78;SRVDNZ Kritik Objeler;30.01.2026 11:04;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin58;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user96;9.03.2025 12:43;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Authorized User Changed | Alert ID: 527661 | DB User Name: \ user266;7.01.2025 02:02;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user147;2.09.2025 12:13;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;SRVDNZ Kritik Objeler;10.10.2026 12:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;3.11.2026 01:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;24.01.2025 18:36;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;4.02.2025 12:54;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;22.12.2025 06:18;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin31;Alert Description: Trigger Activities - All Database | Alert ID: 599140 | DB User Name: \ user466;30.08.2025 02:39;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;15.10.2026 05:34;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 574260 | DB User Name: \ user364;2.05.2025 04:28;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;15.01.2026 02:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser67;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user324;27.05.2026 15:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user209;24.01.2026 02:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;DENIZ Kritik Objeler;16.10.2026 09:10;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;DENIZ Kritik Objeler;10.04.2025 16:42;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;7.04.2026 17:51;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 528641 | DB User Name: \ user355;22.11.2025 06:40;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Authorized User Changed | Alert ID: 576936 | DB User Name: \ user332;8.10.2025 11:24;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 527138 | DB User Name: \ user320;7.10.2025 09:43;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user200;4.02.2025 02:35;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Authorized User Changed | Alert ID: 556656 | DB User Name: \ user274;22.03.2025 02:41;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 502661 | DB User Name: \ user247;3.06.2025 17:38;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user194;20.06.2026 12:39;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser96;Alert Description: Trigger Activities - All Database | Alert ID: 563251 | DB User Name: \ user274;17.08.2026 00:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user272;8.07.2026 09:24;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 553269 | DB User Name: \ user322;13.03.2026 16:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin77;Alert Description: Authorized User Changed | Alert ID: 550187 | DB User Name: \ user323;6.08.2026 14:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 597240 | DB User Name: \ user67;14.11.2025 19:57;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 517210 | DB User Name: \ user443;29.11.2026 02:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser44;SRVDNZ Kritik Objeler;3.06.2026 03:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user471;19.09.2025 08:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin26;Alert Description: Authorized User Changed | Alert ID: 519025 | DB User Name: \ user19;11.06.2026 15:20;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;ATLAS Kritik Objeler;29.08.2026 17:39;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser27;SRVDNZ Kritik Objeler;20.03.2025 16:06;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 566639 | DB User Name: \ user288;12.02.2026 21:31;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Authorized User Changed | Alert ID: 529755 | DB User Name: \ user2;29.01.2026 03:09;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 565393 | DB User Name: \ user317;17.08.2026 15:31;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser60;Alert Description: KT Yakut Kritik Objeler | Alert ID: 572414 | DB User Name: \ user165;1.11.2025 18:43;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser34;Alert Description: KT Yakut Kritik Objeler | Alert ID: 581792 | DB User Name: \ user391;16.08.2026 09:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;7.01.2026 19:58;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Authorized User Changed | Alert ID: 577635 | DB User Name: \ user424;22.08.2026 01:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user175;24.01.2025 20:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user474;6.03.2025 08:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser42;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user193;15.10.2025 01:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user77;3.03.2026 10:17;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser87;Alert Description: Authorized User Changed | Alert ID: 556315 | DB User Name: \ user493;15.09.2026 00:21;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser96;SRVDNZ Kritik Objeler;19.11.2025 00:01;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser34;Alert Description: KT Yakut Kritik Objeler | Alert ID: 525189 | DB User Name: \ user489;9.03.2026 06:00;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin17;Alert Description: KT Yakut Kritik Objeler | Alert ID: 549573 | DB User Name: \ user491;29.04.2026 14:32;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;4.08.2026 15:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 520221 | DB User Name: \ user351;26.07.2025 14:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin75;Alert Description: KT Yakut Kritik Objeler | Alert ID: 597591 | DB User Name: \ user275;28.09.2026 21:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin71;DENIZ Kritik Objeler;6.02.2025 10:52;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;ATLAS Kritik Objeler;22.01.2026 07:32;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;28.04.2026 05:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;9.10.2025 23:45;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;14.07.2025 11:02;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;17.07.2026 10:01;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;9.09.2025 13:33;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Authorized User Changed | Alert ID: 593793 | DB User Name: \ user303;23.04.2026 16:52;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;SRVDNZ Kritik Objeler;15.01.2025 09:04;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser40;Alert Description: KT Yakut Kritik Objeler | Alert ID: 516888 | DB User Name: \ user87;10.12.2026 11:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 581564 | DB User Name: \ user263;21.02.2026 20:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;21.05.2025 17:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin10;Alert Description: KT Yakut Kritik Objeler | Alert ID: 505026 | DB User Name: \ user132;8.09.2026 16:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 532130 | DB User Name: \ user144;21.03.2026 14:48;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user53;24.04.2025 07:32;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin80;Alert Description: Trigger Activities - All Database | Alert ID: 529124 | DB User Name: \ user374;24.07.2025 05:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;7.07.2026 20:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 595386 | DB User Name: \ user341;13.05.2026 15:27;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 572271 | DB User Name: \ user143;14.12.2026 12:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 508887 | DB User Name: \ user174;11.02.2025 06:09;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 547820 | DB User Name: \ user129;19.09.2025 13:53;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 567444 | DB User Name: \ user362;27.05.2026 22:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;30.08.2026 08:11;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 563674 | DB User Name: \ user472;21.07.2026 03:18;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 515689 | DB User Name: \ user73;31.01.2026 05:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;9.11.2025 20:15;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser9;DENIZ Kritik Objeler;28.07.2026 07:37;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;17.04.2025 10:32;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user242;17.11.2025 10:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Authorized User Changed | Alert ID: 501556 | DB User Name: \ user245;28.10.2026 03:15;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;DENIZ Kritik Objeler;4.05.2026 00:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 518450 | DB User Name: \ user189;6.04.2026 03:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 508047 | DB User Name: \ user477;22.02.2026 17:35;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin39;Alert Description: Authorized User Changed | Alert ID: 552105 | DB User Name: \ user105;8.03.2025 13:32;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser89;DENIZ Kritik Objeler;14.09.2025 09:06;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser65;Alert Description: Authorized User Changed | Alert ID: 559882 | DB User Name: \ user227;21.05.2025 03:10;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user13;2.01.2026 14:22;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;SRVDNZ Kritik Objeler;7.09.2026 06:48;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user270;31.08.2025 21:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;ATLAS Kritik Objeler;26.02.2026 04:29;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;28.04.2025 18:05;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;SRVDNZ Kritik Objeler;30.07.2026 19:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser63;ATLAS Kritik Objeler;10.01.2026 19:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 595413 | DB User Name: \ user487;2.07.2025 06:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user490;10.12.2025 04:34;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin72;Alert Description: KT Yakut Kritik Objeler | Alert ID: 591341 | DB User Name: \ user164;24.07.2025 05:32;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser22;ATLAS Kritik Objeler;7.12.2026 17:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user483;10.05.2026 05:31;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;ATLAS Kritik Objeler;18.03.2025 06:42;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user87;7.01.2025 20:47;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;DENIZ Kritik Objeler;8.06.2026 20:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 514745 | DB User Name: \ user443;11.09.2025 19:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin27;DENIZ Kritik Objeler;10.12.2025 13:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 594060 | DB User Name: \ user347;12.05.2026 20:31;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser87;ATLAS Kritik Objeler;25.05.2026 07:07;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user183;4.12.2025 04:54;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser5;Alert Description: Trigger Activities - All Database | Alert ID: 503422 | DB User Name: \ user377;15.09.2026 20:23;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin65;Alert Description: KT Yakut Kritik Objeler | Alert ID: 557068 | DB User Name: \ user27;1.03.2025 19:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser62;Alert Description: KT Yakut Kritik Objeler | Alert ID: 596719 | DB User Name: \ user199;16.09.2025 04:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 543211 | DB User Name: \ user1;12.12.2025 08:05;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin63;ATLAS Kritik Objeler;27.02.2026 09:37;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 583276 | DB User Name: \ user421;23.11.2026 01:15;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 547867 | DB User Name: \ user463;16.03.2026 01:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 502706 | DB User Name: \ user497;20.04.2026 09:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 542932 | DB User Name: \ user137;26.06.2025 17:32;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin23;Alert Description: Trigger Activities - All Database | Alert ID: 523687 | DB User Name: \ user79;14.11.2025 09:16;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;ATLAS Kritik Objeler;13.01.2026 00:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;29.09.2025 11:46;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin43;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user84;18.11.2025 17:39;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;13.07.2026 13:25;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 532324 | DB User Name: \ user397;5.11.2025 23:09;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 577990 | DB User Name: \ user458;26.02.2025 07:51;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 564014 | DB User Name: \ user358;7.10.2026 17:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;DENIZ Kritik Objeler;5.11.2025 05:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 555104 | DB User Name: \ user449;20.02.2026 20:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser40;Alert Description: KT Yakut Kritik Objeler | Alert ID: 526677 | DB User Name: \ user161;14.08.2025 10:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser40;Alert Description: Authorized User Changed | Alert ID: 522229 | DB User Name: \ user123;25.07.2025 03:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user55;29.04.2025 05:54;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 591506 | DB User Name: \ user1;4.11.2026 06:45;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user26;28.06.2026 16:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin79;SRVDNZ Kritik Objeler;8.12.2026 02:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;DENIZ Kritik Objeler;26.06.2025 08:24;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;27.10.2025 10:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;25.11.2025 13:17;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin1;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user334;13.04.2025 09:13;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin10;SRVDNZ Kritik Objeler;5.12.2025 18:53;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 573082 | DB User Name: \ user68;8.07.2025 01:43;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser30;Alert Description: Trigger Activities - All Database | Alert ID: 566295 | DB User Name: \ user258;14.12.2026 22:02;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser95;SRVDNZ Kritik Objeler;27.04.2026 16:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 540217 | DB User Name: \ user419;20.02.2026 02:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;29.11.2026 08:13;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 537505 | DB User Name: \ user339;3.05.2026 16:12;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;23.01.2025 14:18;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user382;20.10.2026 23:38;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;14.07.2026 14:14;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Authorized User Changed | Alert ID: 540730 | DB User Name: \ user311;12.03.2026 14:54;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin69;ATLAS Kritik Objeler;25.09.2025 23:05;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 576891 | DB User Name: \ user84;7.11.2025 02:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 559165 | DB User Name: \ user108;21.12.2026 19:15;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;14.10.2026 19:50;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user308;27.09.2026 05:10;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 550246 | DB User Name: \ user34;9.09.2026 09:34;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;DENIZ Kritik Objeler;12.04.2026 18:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 510981 | DB User Name: \ user194;18.04.2025 13:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser8;ATLAS Kritik Objeler;17.05.2025 00:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 569067 | DB User Name: \ user355;18.07.2026 11:34;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin6;SRVDNZ Kritik Objeler;18.11.2026 19:51;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 550485 | DB User Name: \ user215;13.06.2026 08:38;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;SRVDNZ Kritik Objeler;3.07.2026 20:31;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser37;SRVDNZ Kritik Objeler;8.09.2025 18:29;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;17.07.2026 22:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;13.04.2025 04:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 520726 | DB User Name: \ user217;20.12.2025 05:34;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;DENIZ Kritik Objeler;5.09.2025 07:49;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;9.02.2026 10:03;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 586057 | DB User Name: \ user435;17.12.2025 17:48;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Authorized User Changed | Alert ID: 539762 | DB User Name: \ user114;23.04.2026 10:47;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user327;2.03.2026 17:09;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 505524 | DB User Name: \ user237;17.06.2026 06:26;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;23.06.2026 13:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user367;23.05.2025 18:00;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 559581 | DB User Name: \ user204;12.10.2025 04:16;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 525515 | DB User Name: \ user325;7.01.2026 19:58;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;31.08.2025 00:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin5;SRVDNZ Kritik Objeler;29.01.2026 07:57;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 577380 | DB User Name: \ user497;28.11.2026 17:11;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 594241 | DB User Name: \ user220;10.06.2026 13:14;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin10;Alert Description: Trigger Activities - All Database | Alert ID: 569455 | DB User Name: \ user458;19.10.2025 06:05;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 508416 | DB User Name: \ user324;16.11.2025 02:05;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;23.02.2026 04:51;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 557767 | DB User Name: \ user332;1.07.2026 05:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;SRVDNZ Kritik Objeler;9.07.2025 02:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;SRVDNZ Kritik Objeler;12.07.2026 04:02;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser98;Alert Description: Trigger Activities - All Database | Alert ID: 584066 | DB User Name: \ user64;2.01.2026 12:15;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 560424 | DB User Name: \ user406;9.04.2025 23:09;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;22.07.2026 09:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 534018 | DB User Name: \ user8;17.11.2026 07:00;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;4.09.2026 17:30;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;11.11.2025 08:36;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;3.06.2025 10:04;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;DENIZ Kritik Objeler;28.09.2026 09:08;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin3;Alert Description: Trigger Activities - All Database | Alert ID: 524203 | DB User Name: \ user26;27.05.2026 00:09;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 518103 | DB User Name: \ user34;30.10.2025 09:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;30.11.2025 03:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin42;ATLAS Kritik Objeler;2.10.2026 17:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;20.05.2025 10:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;5.01.2025 01:12;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin57;Alert Description: Trigger Activities - All Database | Alert ID: 549018 | DB User Name: \ user312;22.04.2026 13:11;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 505799 | DB User Name: \ user355;5.08.2025 10:13;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user58;18.02.2026 08:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user27;23.05.2026 09:57;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;ATLAS Kritik Objeler;12.04.2025 15:06;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin65;ATLAS Kritik Objeler;23.10.2026 00:57;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser47;Alert Description: KT Yakut Kritik Objeler | Alert ID: 534805 | DB User Name: \ user11;30.08.2025 05:39;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 598749 | DB User Name: \ user376;3.07.2026 01:18;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 592948 | DB User Name: \ user313;20.10.2025 11:57;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 551081 | DB User Name: \ user162;26.09.2026 07:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;ATLAS Kritik Objeler;1.10.2025 10:24;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 580271 | DB User Name: \ user76;11.06.2025 15:27;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;12.09.2025 21:00;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;10.01.2026 16:43;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 513260 | DB User Name: \ user160;10.04.2026 01:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;6.06.2025 01:52;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 581362 | DB User Name: \ user342;30.10.2025 13:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;23.07.2026 13:13;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;16.05.2026 21:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;DENIZ Kritik Objeler;8.11.2025 21:49;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;11.06.2026 09:55;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser52;SRVDNZ Kritik Objeler;4.12.2026 00:16;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user291;25.10.2025 09:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;13.02.2025 16:59;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;22.12.2026 02:49;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin67;ATLAS Kritik Objeler;28.06.2026 21:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin97;ATLAS Kritik Objeler;15.07.2025 06:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;ATLAS Kritik Objeler;27.05.2025 01:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 541193 | DB User Name: \ user387;25.11.2025 03:11;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 541167 | DB User Name: \ user431;27.04.2026 04:14;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 541456 | DB User Name: \ user93;28.09.2026 05:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 559836 | DB User Name: \ user162;29.07.2025 10:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;6.04.2026 09:07;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 508240 | DB User Name: \ user455;12.06.2026 22:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 582564 | DB User Name: \ user201;14.11.2026 01:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;27.10.2025 14:51;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user289;17.03.2026 17:34;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser4;Alert Description: Authorized User Changed | Alert ID: 524602 | DB User Name: \ user343;29.04.2025 01:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;2.06.2026 04:34;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser44;Alert Description: Authorized User Changed | Alert ID: 536500 | DB User Name: \ user24;20.08.2026 21:05;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;30.09.2026 06:49;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;17.09.2026 01:38;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin53;ATLAS Kritik Objeler;16.10.2026 02:09;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 543726 | DB User Name: \ user237;11.10.2026 02:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;17.01.2026 23:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;DENIZ Kritik Objeler;8.07.2025 01:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 537704 | DB User Name: \ user130;19.12.2025 07:09;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;19.12.2025 17:27;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user417;15.02.2026 08:23;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user452;22.02.2026 21:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser23;DENIZ Kritik Objeler;29.11.2026 15:57;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 573572 | DB User Name: \ user197;9.02.2025 04:50;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 516908 | DB User Name: \ user240;11.03.2026 22:53;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 539342 | DB User Name: \ user45;9.03.2026 15:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;SRVDNZ Kritik Objeler;2.02.2026 22:01;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 515964 | DB User Name: \ user36;2.03.2026 09:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin7;DENIZ Kritik Objeler;3.08.2026 18:49;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Authorized User Changed | Alert ID: 589944 | DB User Name: \ user289;29.04.2026 02:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 570942 | DB User Name: \ user139;3.01.2025 12:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 550184 | DB User Name: \ user185;17.12.2026 16:02;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 505683 | DB User Name: \ user314;8.06.2026 03:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 571472 | DB User Name: \ user225;16.09.2025 15:00;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 536068 | DB User Name: \ user47;8.02.2025 16:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser82;Alert Description: Trigger Activities - All Database | Alert ID: 529784 | DB User Name: \ user288;28.01.2026 17:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 578839 | DB User Name: \ user53;15.11.2025 04:28;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 506495 | DB User Name: \ user35;21.07.2026 11:54;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 556980 | DB User Name: \ user297;3.11.2025 19:43;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;22.03.2026 16:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user453;25.12.2026 07:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;7.09.2026 17:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user194;29.11.2025 09:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;1.08.2026 23:11;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser91;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user404;26.11.2026 12:36;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 595863 | DB User Name: \ user182;15.11.2026 19:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;11.08.2025 00:01;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin86;DENIZ Kritik Objeler;20.05.2025 01:54;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser42;Alert Description: KT Yakut Kritik Objeler | Alert ID: 503569 | DB User Name: \ user308;19.07.2026 01:47;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 514186 | DB User Name: \ user422;31.10.2025 08:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 502874 | DB User Name: \ user319;8.04.2025 03:57;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin5;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user289;31.12.2026 20:22;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;12.11.2026 09:40;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 526489 | DB User Name: \ user290;21.05.2025 02:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;14.01.2025 14:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;24.02.2026 02:48;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin68;ATLAS Kritik Objeler;12.10.2025 14:29;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 533894 | DB User Name: \ user382;3.06.2026 23:03;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser83;DENIZ Kritik Objeler;4.12.2025 10:35;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Authorized User Changed | Alert ID: 564263 | DB User Name: \ user176;18.10.2025 15:46;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 504264 | DB User Name: \ user431;24.08.2025 04:43;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin66;Alert Description: Authorized User Changed | Alert ID: 586634 | DB User Name: \ user252;5.07.2025 08:38;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user253;21.06.2026 02:10;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 567464 | DB User Name: \ user199;3.08.2025 09:11;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;24.05.2026 12:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;8.08.2026 11:16;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 595713 | DB User Name: \ user491;26.12.2026 23:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin1;Alert Description: Authorized User Changed | Alert ID: 566319 | DB User Name: \ user126;19.09.2025 12:11;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser29;DENIZ Kritik Objeler;31.03.2026 11:59;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 513441 | DB User Name: \ user292;10.05.2025 07:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;4.03.2025 05:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user349;24.04.2026 16:13;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 556053 | DB User Name: \ user89;16.08.2025 18:51;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user423;4.09.2026 21:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser40;Alert Description: KT Yakut Kritik Objeler | Alert ID: 558035 | DB User Name: \ user241;6.11.2026 04:22;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user293;6.07.2025 16:01;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;DENIZ Kritik Objeler;16.07.2025 19:27;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;26.02.2025 02:43;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser36;Alert Description: Trigger Activities - All Database | Alert ID: 590644 | DB User Name: \ user262;1.08.2026 05:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;15.01.2026 21:03;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Authorized User Changed | Alert ID: 522538 | DB User Name: \ user489;7.07.2025 00:18;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser68;Alert Description: Trigger Activities - All Database | Alert ID: 588728 | DB User Name: \ user130;3.02.2026 19:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;28.10.2025 03:32;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 567760 | DB User Name: \ user220;20.01.2025 22:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;7.07.2025 04:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser60;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user216;3.07.2026 04:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 565918 | DB User Name: \ user28;12.08.2026 00:46;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin92;ATLAS Kritik Objeler;25.11.2025 07:04;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;5.06.2026 07:35;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;ATLAS Kritik Objeler;30.03.2026 17:39;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;22.04.2025 09:43;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;DENIZ Kritik Objeler;30.12.2025 07:28;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser27;Alert Description: KT Yakut Kritik Objeler | Alert ID: 575517 | DB User Name: \ user271;28.11.2025 20:16;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;ATLAS Kritik Objeler;13.07.2025 10:04;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;ATLAS Kritik Objeler;17.03.2025 01:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;8.05.2025 13:48;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin36;Alert Description: Trigger Activities - All Database | Alert ID: 553290 | DB User Name: \ user302;4.11.2025 02:11;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;DENIZ Kritik Objeler;5.01.2026 19:52;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user213;22.12.2025 04:59;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;13.08.2026 06:34;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;7.02.2026 11:31;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Authorized User Changed | Alert ID: 521931 | DB User Name: \ user85;16.10.2026 18:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;21.04.2026 06:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Authorized User Changed | Alert ID: 539456 | DB User Name: \ user292;15.12.2026 01:35;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser7;ATLAS Kritik Objeler;6.07.2025 11:18;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin62;Alert Description: KT Yakut Kritik Objeler | Alert ID: 528650 | DB User Name: \ user381;16.11.2026 03:46;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 532091 | DB User Name: \ user35;28.01.2026 07:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin83;ATLAS Kritik Objeler;5.08.2025 03:17;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser3;SRVDNZ Kritik Objeler;4.07.2025 15:22;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser88;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user374;29.05.2026 11:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user34;6.06.2025 18:42;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;SRVDNZ Kritik Objeler;16.05.2026 13:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;7.06.2026 02:29;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 544041 | DB User Name: \ user253;4.01.2026 20:47;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin73;Alert Description: KT Yakut Kritik Objeler | Alert ID: 537944 | DB User Name: \ user349;14.11.2026 03:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;12.05.2025 12:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 520924 | DB User Name: \ user456;8.03.2025 16:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user35;6.03.2026 02:02;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser69;Alert Description: Trigger Activities - All Database | Alert ID: 594563 | DB User Name: \ user167;3.08.2026 22:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user365;4.06.2025 18:22;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user43;1.01.2025 13:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;17.03.2026 14:03;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser1;Alert Description: Trigger Activities - All Database | Alert ID: 581624 | DB User Name: \ user128;9.09.2026 08:18;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 524029 | DB User Name: \ user453;5.07.2026 23:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 591696 | DB User Name: \ user279;8.10.2026 05:38;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser16;DENIZ Kritik Objeler;12.03.2026 13:15;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 558203 | DB User Name: \ user260;30.01.2025 14:34;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user450;8.02.2026 14:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;7.01.2026 21:36;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;15.07.2026 19:34;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 514343 | DB User Name: \ user433;10.09.2026 16:59;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;ATLAS Kritik Objeler;19.06.2026 00:52;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 576164 | DB User Name: \ user171;19.06.2025 11:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;DENIZ Kritik Objeler;12.02.2025 07:52;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 560843 | DB User Name: \ user39;18.05.2026 02:09;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 557342 | DB User Name: \ user296;6.12.2026 15:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;30.03.2025 15:52;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;21.01.2026 22:47;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;2.04.2025 18:25;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 589060 | DB User Name: \ user283;13.06.2025 02:44;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;DENIZ Kritik Objeler;30.10.2025 11:48;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 514162 | DB User Name: \ user370;14.11.2026 13:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin57;Alert Description: Trigger Activities - All Database | Alert ID: 583140 | DB User Name: \ user228;21.09.2026 22:25;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 501654 | DB User Name: \ user95;7.07.2025 04:45;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;ATLAS Kritik Objeler;23.02.2026 12:51;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin89;Alert Description: Authorized User Changed | Alert ID: 567150 | DB User Name: \ user180;24.08.2025 09:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;14.02.2026 11:57;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser71;Alert Description: Authorized User Changed | Alert ID: 518322 | DB User Name: \ user427;24.11.2025 19:17;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser95;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user163;15.01.2025 05:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;24.08.2025 00:18;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;DENIZ Kritik Objeler;22.01.2025 01:31;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 599413 | DB User Name: \ user96;24.12.2025 15:44;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin47;ATLAS Kritik Objeler;9.01.2026 12:01;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;5.11.2025 14:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;13.05.2025 09:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser37;Alert Description: Authorized User Changed | Alert ID: 547955 | DB User Name: \ user301;3.02.2025 18:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 571820 | DB User Name: \ user238;3.01.2025 19:05;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 534806 | DB User Name: \ user173;11.04.2026 10:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user218;16.10.2025 05:29;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 589291 | DB User Name: \ user139;5.04.2025 16:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 517627 | DB User Name: \ user43;18.09.2026 20:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 544752 | DB User Name: \ user301;5.10.2025 04:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 540870 | DB User Name: \ user487;21.07.2025 11:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;ATLAS Kritik Objeler;8.11.2026 11:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;ATLAS Kritik Objeler;10.03.2026 11:51;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;SRVDNZ Kritik Objeler;12.08.2025 05:16;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 578213 | DB User Name: \ user131;2.09.2025 06:48;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user228;20.02.2026 17:09;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin94;DENIZ Kritik Objeler;18.12.2026 16:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser86;Alert Description: Authorized User Changed | Alert ID: 551473 | DB User Name: \ user215;17.09.2026 15:50;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user351;19.05.2025 02:59;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;DENIZ Kritik Objeler;30.08.2025 02:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;DENIZ Kritik Objeler;1.07.2026 14:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin58;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user477;12.05.2026 21:28;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 537618 | DB User Name: \ user68;18.02.2026 06:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Authorized User Changed | Alert ID: 591227 | DB User Name: \ user332;5.09.2025 23:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 574651 | DB User Name: \ user453;17.07.2026 05:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user179;8.10.2025 23:51;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;14.04.2026 13:11;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;2.11.2026 03:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;SRVDNZ Kritik Objeler;8.07.2025 07:23;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 517725 | DB User Name: \ user370;3.03.2026 12:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user256;24.03.2025 06:47;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Authorized User Changed | Alert ID: 513002 | DB User Name: \ user447;31.08.2026 10:47;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 517859 | DB User Name: \ user150;2.12.2025 00:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 593788 | DB User Name: \ user248;4.06.2025 05:23;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 509575 | DB User Name: \ user143;28.08.2025 23:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin43;Alert Description: KT Yakut Kritik Objeler | Alert ID: 526511 | DB User Name: \ user72;18.09.2025 20:25;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;SRVDNZ Kritik Objeler;6.10.2026 01:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;23.08.2025 20:25;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 514764 | DB User Name: \ user52;5.06.2025 22:39;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;8.03.2026 22:35;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;DENIZ Kritik Objeler;3.03.2025 05:34;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user411;21.10.2026 18:50;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin10;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user161;9.04.2026 10:17;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user365;18.05.2026 15:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;11.02.2025 03:23;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser78;Alert Description: KT Yakut Kritik Objeler | Alert ID: 577420 | DB User Name: \ user107;6.04.2026 10:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;27.10.2025 15:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 517542 | DB User Name: \ user3;11.05.2025 17:34;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user259;18.07.2026 05:01;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;SRVDNZ Kritik Objeler;24.03.2025 20:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;5.04.2026 08:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin91;Alert Description: Trigger Activities - All Database | Alert ID: 518757 | DB User Name: \ user4;7.08.2026 09:00;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;2.08.2025 20:44;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin78;DENIZ Kritik Objeler;22.05.2025 08:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 596518 | DB User Name: \ user385;13.12.2026 18:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;29.08.2026 20:54;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 572649 | DB User Name: \ user3;23.10.2025 15:58;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser73;ATLAS Kritik Objeler;2.04.2026 05:17;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;SRVDNZ Kritik Objeler;12.01.2026 04:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 586943 | DB User Name: \ user452;7.08.2026 03:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user97;5.07.2026 09:47;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 559855 | DB User Name: \ user476;6.05.2026 14:01;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;29.05.2025 00:32;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser60;SRVDNZ Kritik Objeler;27.12.2026 01:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 559775 | DB User Name: \ user114;1.04.2025 14:14;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser88;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user498;2.08.2026 17:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;11.05.2025 01:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin36;ATLAS Kritik Objeler;6.06.2025 04:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin53;DENIZ Kritik Objeler;28.06.2025 00:15;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user176;11.11.2025 14:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;28.06.2026 10:26;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Authorized User Changed | Alert ID: 565448 | DB User Name: \ user65;4.06.2025 16:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 545147 | DB User Name: \ user175;22.11.2026 05:28;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 547892 | DB User Name: \ user331;26.10.2026 20:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user90;30.12.2026 19:18;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser17;Alert Description: Trigger Activities - All Database | Alert ID: 599586 | DB User Name: \ user360;22.07.2025 19:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user367;14.10.2026 08:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;ATLAS Kritik Objeler;15.12.2025 12:22;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user104;9.08.2026 19:31;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;16.08.2026 16:15;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 535655 | DB User Name: \ user298;2.12.2025 03:27;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user121;4.01.2025 17:57;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user386;15.09.2025 21:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 566384 | DB User Name: \ user183;21.06.2026 20:53;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin89;DENIZ Kritik Objeler;10.05.2026 21:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin48;ATLAS Kritik Objeler;21.10.2026 12:24;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin97;Alert Description: Authorized User Changed | Alert ID: 542723 | DB User Name: \ user69;24.12.2026 11:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser75;DENIZ Kritik Objeler;8.04.2026 09:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;ATLAS Kritik Objeler;31.12.2025 15:11;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;DENIZ Kritik Objeler;19.01.2026 19:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 544726 | DB User Name: \ user208;28.01.2025 07:42;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 567173 | DB User Name: \ user497;13.08.2026 18:59;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser16;ATLAS Kritik Objeler;20.07.2025 02:03;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;7.06.2026 12:20;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;24.04.2026 21:22;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser94;DENIZ Kritik Objeler;29.04.2025 19:01;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 519563 | DB User Name: \ user383;19.05.2025 04:59;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;DENIZ Kritik Objeler;23.03.2025 16:14;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;1.03.2026 13:01;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 543963 | DB User Name: \ user183;6.04.2025 00:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 542915 | DB User Name: \ user330;21.10.2026 12:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin58;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user309;20.10.2025 17:26;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user221;1.12.2026 02:31;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;20.08.2026 15:12;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 533663 | DB User Name: \ user396;8.03.2025 16:43;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;19.05.2026 21:50;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user156;15.05.2025 01:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 571309 | DB User Name: \ user319;24.10.2025 19:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;SRVDNZ Kritik Objeler;31.12.2026 04:50;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 574893 | DB User Name: \ user209;4.03.2026 11:02;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;DENIZ Kritik Objeler;20.04.2025 22:45;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin16;ATLAS Kritik Objeler;23.05.2026 08:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user39;9.11.2026 11:36;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;31.05.2025 16:14;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;DENIZ Kritik Objeler;26.03.2025 02:25;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;4.11.2026 17:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin93;SRVDNZ Kritik Objeler;13.01.2026 03:39;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;SRVDNZ Kritik Objeler;20.10.2026 11:43;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser35;ATLAS Kritik Objeler;24.05.2026 23:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user284;1.11.2026 00:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;1.02.2025 01:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user333;4.05.2026 23:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 568131 | DB User Name: \ user324;1.05.2025 02:11;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin93;Alert Description: KT Yakut Kritik Objeler | Alert ID: 500137 | DB User Name: \ user417;1.03.2026 23:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 575896 | DB User Name: \ user245;28.10.2025 06:34;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;30.07.2026 13:48;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 594391 | DB User Name: \ user227;17.04.2026 06:04;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;19.10.2025 18:16;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;21.09.2025 02:16;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 544580 | DB User Name: \ user117;11.05.2025 16:16;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;23.11.2025 03:39;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser42;Alert Description: Authorized User Changed | Alert ID: 503330 | DB User Name: \ user500;12.09.2025 20:02;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Authorized User Changed | Alert ID: 535677 | DB User Name: \ user413;1.05.2026 16:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;ATLAS Kritik Objeler;3.09.2026 21:55;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;11.03.2026 15:36;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 507904 | DB User Name: \ user341;16.05.2026 02:10;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser89;Alert Description: Authorized User Changed | Alert ID: 500931 | DB User Name: \ user177;4.10.2025 01:48;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin93;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user256;30.10.2025 17:10;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user338;1.10.2025 10:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user396;11.06.2025 06:43;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 583300 | DB User Name: \ user450;13.01.2025 00:39;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 542491 | DB User Name: \ user93;11.08.2026 17:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser26;ATLAS Kritik Objeler;18.07.2025 08:09;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;ATLAS Kritik Objeler;28.06.2026 04:44;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user211;31.12.2025 00:22;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 561391 | DB User Name: \ user273;11.01.2026 23:01;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 514193 | DB User Name: \ user77;11.11.2026 11:52;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;1.10.2026 07:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser42;DENIZ Kritik Objeler;16.10.2026 02:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;ATLAS Kritik Objeler;28.03.2026 09:12;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;25.04.2025 05:43;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;ATLAS Kritik Objeler;24.11.2025 21:08;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;SRVDNZ Kritik Objeler;29.07.2026 23:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin72;DENIZ Kritik Objeler;10.12.2025 21:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;SRVDNZ Kritik Objeler;25.10.2026 07:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;9.03.2026 13:53;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;8.01.2025 20:53;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;DENIZ Kritik Objeler;29.08.2025 05:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 566108 | DB User Name: \ user145;30.06.2025 09:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser40;Alert Description: Authorized User Changed | Alert ID: 520823 | DB User Name: \ user221;12.08.2025 16:31;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin58;Alert Description: Authorized User Changed | Alert ID: 564069 | DB User Name: \ user397;21.03.2025 05:03;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 523409 | DB User Name: \ user190;25.07.2025 23:55;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;ATLAS Kritik Objeler;1.09.2026 06:41;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser66;DENIZ Kritik Objeler;8.11.2026 02:40;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user489;24.07.2026 18:17;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user367;21.02.2026 00:39;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;21.08.2026 08:13;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;SRVDNZ Kritik Objeler;25.02.2025 04:13;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;23.02.2026 14:18;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin86;ATLAS Kritik Objeler;3.06.2025 07:12;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;22.02.2026 15:35;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser63;Alert Description: Trigger Activities - All Database | Alert ID: 551380 | DB User Name: \ user232;31.03.2026 14:45;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;28.11.2025 03:20;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user472;10.02.2026 02:34;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Authorized User Changed | Alert ID: 500197 | DB User Name: \ user412;29.03.2026 04:50;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user131;29.08.2026 10:54;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;11.01.2026 07:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;DENIZ Kritik Objeler;22.03.2026 23:37;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;30.12.2025 13:43;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 521498 | DB User Name: \ user470;4.09.2026 03:58;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 513622 | DB User Name: \ user421;18.04.2026 06:33;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser59;Alert Description: KT Yakut Kritik Objeler | Alert ID: 591560 | DB User Name: \ user186;14.05.2026 14:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser28;SRVDNZ Kritik Objeler;18.07.2025 15:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser93;ATLAS Kritik Objeler;14.12.2025 12:00;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;SRVDNZ Kritik Objeler;9.02.2026 01:39;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 530332 | DB User Name: \ user193;12.03.2025 20:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 592020 | DB User Name: \ user12;5.05.2026 15:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin60;DENIZ Kritik Objeler;12.02.2026 10:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;ATLAS Kritik Objeler;17.10.2025 22:07;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 584911 | DB User Name: \ user56;5.01.2025 21:57;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;20.12.2026 17:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;DENIZ Kritik Objeler;9.09.2026 21:37;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser14;Alert Description: Authorized User Changed | Alert ID: 539752 | DB User Name: \ user377;25.10.2026 10:20;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;11.01.2025 15:45;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;17.05.2026 10:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;SRVDNZ Kritik Objeler;24.05.2026 01:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin22;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user414;29.11.2026 18:26;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser3;DENIZ Kritik Objeler;21.02.2026 08:51;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser59;ATLAS Kritik Objeler;26.04.2025 05:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user2;28.11.2025 05:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin34;ATLAS Kritik Objeler;21.03.2025 10:34;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;DENIZ Kritik Objeler;14.04.2025 17:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;16.01.2025 21:17;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 556914 | DB User Name: \ user326;15.08.2026 01:45;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser49;Alert Description: Trigger Activities - All Database | Alert ID: 563726 | DB User Name: \ user479;20.11.2025 22:55;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser39;SRVDNZ Kritik Objeler;16.11.2025 21:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;20.12.2025 22:24;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 526982 | DB User Name: \ user467;17.06.2025 23:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user398;23.04.2025 01:24;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser91;Alert Description: KT Yakut Kritik Objeler | Alert ID: 527213 | DB User Name: \ user211;9.08.2025 15:34;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;24.07.2025 19:05;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;21.06.2026 01:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user375;5.10.2026 16:04;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin80;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user348;24.12.2026 20:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin46;SRVDNZ Kritik Objeler;27.03.2025 08:59;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 556572 | DB User Name: \ user156;7.11.2025 01:09;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 569538 | DB User Name: \ user444;10.07.2026 15:19;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;SRVDNZ Kritik Objeler;7.12.2025 23:14;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser99;SRVDNZ Kritik Objeler;18.04.2025 02:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser38;SRVDNZ Kritik Objeler;7.05.2025 14:01;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser36;Alert Description: Trigger Activities - All Database | Alert ID: 520357 | DB User Name: \ user97;18.11.2025 02:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin66;DENIZ Kritik Objeler;10.04.2025 10:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin53;Alert Description: Authorized User Changed | Alert ID: 592676 | DB User Name: \ user204;14.01.2026 02:35;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;DENIZ Kritik Objeler;7.02.2026 23:46;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user429;27.06.2026 20:58;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;6.06.2026 01:11;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin68;Alert Description: KT Yakut Kritik Objeler | Alert ID: 596956 | DB User Name: \ user57;26.11.2026 06:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user273;3.01.2025 07:32;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 531871 | DB User Name: \ user72;22.11.2025 16:08;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;SRVDNZ Kritik Objeler;16.11.2026 03:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin85;ATLAS Kritik Objeler;2.11.2025 19:18;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user269;25.02.2026 18:14;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;1.02.2025 01:50;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+admin39;Alert Description: KT Yakut Kritik Objeler | Alert ID: 561805 | DB User Name: \ user492;9.07.2026 05:54;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;DENIZ Kritik Objeler;7.07.2025 09:50;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;SRVDNZ Kritik Objeler;18.07.2026 20:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser47;Alert Description: Authorized User Changed | Alert ID: 595499 | DB User Name: \ user330;13.03.2025 12:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;DENIZ Kritik Objeler;28.01.2025 20:33;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 588731 | DB User Name: \ user339;18.12.2025 00:51;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Authorized User Changed | Alert ID: 528861 | DB User Name: \ user390;19.06.2026 07:42;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;ATLAS Kritik Objeler;6.10.2025 07:31;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;SRVDNZ Kritik Objeler;11.03.2025 18:00;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;3.10.2025 09:25;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;SRVDNZ Kritik Objeler;5.04.2026 07:23;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 501612 | DB User Name: \ user88;10.01.2026 05:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin17;ATLAS Kritik Objeler;19.11.2025 01:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin87;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user330;15.07.2026 00:26;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 528671 | DB User Name: \ user141;7.05.2025 02:55;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;ATLAS Kritik Objeler;3.04.2026 00:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Authorized User Changed | Alert ID: 501137 | DB User Name: \ user76;25.03.2026 23:25;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;DENIZ Kritik Objeler;25.07.2025 08:18;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user282;16.04.2026 03:18;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;2.10.2025 09:53;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser13;Alert Description: KT Yakut Kritik Objeler | Alert ID: 594079 | DB User Name: \ user328;16.11.2026 02:27;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;3.02.2025 11:31;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;DENIZ Kritik Objeler;4.12.2025 21:48;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Authorized User Changed | Alert ID: 537566 | DB User Name: \ user173;5.10.2025 22:02;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 551545 | DB User Name: \ user274;9.12.2026 03:22;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;27.09.2025 18:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser18;DENIZ Kritik Objeler;30.10.2025 06:03;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser19;ATLAS Kritik Objeler;3.10.2025 16:53;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user426;28.10.2025 22:50;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser85;Alert Description: Trigger Activities - All Database | Alert ID: 525395 | DB User Name: \ user6;16.02.2025 13:25;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;3.03.2026 01:27;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser54;DENIZ Kritik Objeler;6.06.2025 20:33;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+admin21;SRVDNZ Kritik Objeler;23.07.2025 10:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser36;DENIZ Kritik Objeler;17.03.2026 00:58;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;28.08.2025 07:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser59;Alert Description: KT Yakut Kritik Objeler | Alert ID: 503555 | DB User Name: \ user412;19.08.2025 09:37;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;SRVDNZ Kritik Objeler;7.06.2025 16:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;7.03.2026 22:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;28.08.2026 00:37;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user245;7.01.2026 13:35;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser19;Alert Description: KT Yakut Kritik Objeler | Alert ID: 520153 | DB User Name: \ user123;8.07.2025 19:51;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 539645 | DB User Name: \ user44;30.01.2026 17:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser99;DENIZ Kritik Objeler;21.11.2026 06:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Authorized User Changed | Alert ID: 524761 | DB User Name: \ user256;27.06.2026 12:43;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser9;Alert Description: Trigger Activities - All Database | Alert ID: 541979 | DB User Name: \ user340;22.05.2026 16:37;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;30.05.2025 12:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 561097 | DB User Name: \ user179;18.10.2025 18:23;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;DENIZ Kritik Objeler;13.04.2026 05:40;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 546033 | DB User Name: \ user34;11.12.2025 05:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: Authorized User Changed | Alert ID: 510394 | DB User Name: \ user370;29.08.2026 05:25;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;13.07.2026 21:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser79;Alert Description: KT Yakut Kritik Objeler | Alert ID: 584026 | DB User Name: \ user145;14.08.2025 12:43;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;ATLAS Kritik Objeler;26.11.2025 12:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser17;Alert Description: KT Yakut Kritik Objeler | Alert ID: 538247 | DB User Name: \ user383;14.05.2026 16:36;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 525108 | DB User Name: \ user372;5.09.2026 13:43;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;24.02.2025 11:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin18;DENIZ Kritik Objeler;23.11.2026 05:57;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 500324 | DB User Name: \ user199;1.05.2026 12:58;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser32;ATLAS Kritik Objeler;18.04.2026 10:50;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser11;Alert Description: Trigger Activities - All Database | Alert ID: 590817 | DB User Name: \ user218;21.03.2025 09:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin70;Alert Description: Trigger Activities - All Database | Alert ID: 515863 | DB User Name: \ user132;14.01.2025 05:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;SRVDNZ Kritik Objeler;7.08.2026 19:44;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;31.10.2026 19:37;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 553173 | DB User Name: \ user347;6.03.2025 07:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;16.01.2026 22:30;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin14;Alert Description: Authorized User Changed | Alert ID: 573205 | DB User Name: \ user416;2.02.2026 03:46;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin13;SRVDNZ Kritik Objeler;2.05.2025 00:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;DENIZ Kritik Objeler;25.03.2025 12:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;16.01.2025 20:35;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;24.05.2026 09:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser94;DENIZ Kritik Objeler;27.01.2026 23:45;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser96;ATLAS Kritik Objeler;29.10.2026 13:16;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser98;SRVDNZ Kritik Objeler;2.09.2026 14:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;ATLAS Kritik Objeler;30.01.2026 04:44;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;ATLAS Kritik Objeler;19.02.2026 02:34;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;10.06.2025 12:29;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user443;29.04.2025 06:10;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user267;22.03.2026 13:52;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 597601 | DB User Name: \ user227;3.09.2025 22:16;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user174;8.08.2026 09:08;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin51;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user230;29.11.2025 10:43;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 545016 | DB User Name: \ user221;29.12.2026 19:39;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 566264 | DB User Name: \ user56;7.04.2025 15:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user470;27.03.2025 19:19;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin84;Alert Description: Trigger Activities - All Database | Alert ID: 596831 | DB User Name: \ user429;29.03.2025 22:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser6;Alert Description: Authorized User Changed | Alert ID: 543452 | DB User Name: \ user141;30.10.2026 12:12;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;26.08.2026 21:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user246;23.09.2026 12:40;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser1;ATLAS Kritik Objeler;30.12.2025 17:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;29.08.2025 22:04;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;DENIZ Kritik Objeler;7.10.2025 14:38;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;DENIZ Kritik Objeler;29.08.2026 13:41;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;SRVDNZ Kritik Objeler;17.03.2025 23:13;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 595130 | DB User Name: \ user301;4.09.2025 01:07;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Authorized User Changed | Alert ID: 579776 | DB User Name: \ user15;20.01.2026 03:06;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 548286 | DB User Name: \ user318;5.03.2025 15:50;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;SRVDNZ Kritik Objeler;10.07.2026 05:26;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 521432 | DB User Name: \ user362;9.10.2025 10:20;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin43;Alert Description: Authorized User Changed | Alert ID: 529933 | DB User Name: \ user422;11.04.2026 12:46;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;30.09.2026 01:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;DENIZ Kritik Objeler;18.03.2026 17:30;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 502016 | DB User Name: \ user476;1.05.2026 08:58;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 588907 | DB User Name: \ user454;12.05.2025 20:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 544912 | DB User Name: \ user414;30.07.2025 06:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser97;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user374;28.10.2025 09:03;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 513486 | DB User Name: \ user180;18.11.2025 12:07;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;25.06.2025 23:15;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;DENIZ Kritik Objeler;13.04.2025 10:58;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin23;SRVDNZ Kritik Objeler;27.04.2026 00:17;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user496;7.07.2025 07:54;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 568485 | DB User Name: \ user500;28.08.2026 07:01;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;ATLAS Kritik Objeler;9.03.2026 12:41;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;15.09.2025 01:36;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 520605 | DB User Name: \ user215;4.01.2025 00:56;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+dbuser85;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user38;31.12.2025 15:19;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;6.05.2026 15:45;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;DENIZ Kritik Objeler;28.11.2025 23:02;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin2;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user274;21.02.2026 16:25;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 589798 | DB User Name: \ user289;26.09.2026 15:59;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 581470 | DB User Name: \ user428;9.01.2026 19:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 567871 | DB User Name: \ user87;12.02.2025 04:21;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;2.04.2025 06:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser70;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user267;26.05.2026 13:30;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user379;12.02.2025 21:03;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;DENIZ Kritik Objeler;14.03.2025 02:12;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 575693 | DB User Name: \ user32;28.06.2025 15:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user381;6.11.2026 19:21;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 514103 | DB User Name: \ user214;26.04.2026 00:08;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;ATLAS Kritik Objeler;7.08.2026 19:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user84;4.03.2025 00:00;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin35;DENIZ Kritik Objeler;16.10.2025 20:37;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser42;Alert Description: Trigger Activities - All Database | Alert ID: 544753 | DB User Name: \ user256;15.02.2025 06:10;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser18;Alert Description: Authorized User Changed | Alert ID: 593781 | DB User Name: \ user283;27.02.2026 06:01;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: Authorized User Changed | Alert ID: 545466 | DB User Name: \ user173;29.05.2026 01:08;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Trigger Activities - All Database | Alert ID: 530613 | DB User Name: \ user245;3.12.2026 23:49;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user208;28.12.2025 19:25;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser88;DENIZ Kritik Objeler;13.04.2025 02:49;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 526234 | DB User Name: \ user94;23.01.2026 14:05;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user438;26.01.2026 21:39;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;SRVDNZ Kritik Objeler;27.11.2025 02:19;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user83;21.12.2026 03:35;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;ATLAS Kritik Objeler;1.09.2026 05:57;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser10;DENIZ Kritik Objeler;24.01.2026 07:24;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;ATLAS Kritik Objeler;26.09.2026 02:20;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 578732 | DB User Name: \ user194;12.02.2025 17:51;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;16.12.2025 08:03;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Alert Description: Authorized User Changed | Alert ID: 532509 | DB User Name: \ user442;6.02.2026 04:20;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin34;DENIZ Kritik Objeler;4.06.2026 08:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 504038 | DB User Name: \ user133;26.03.2026 08:19;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user321;4.07.2026 14:28;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;ATLAS Kritik Objeler;11.10.2026 01:14;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin60;Alert Description: KT Yakut Kritik Objeler | Alert ID: 562231 | DB User Name: \ user150;5.01.2025 06:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Authorized User Changed | Alert ID: 502873 | DB User Name: \ user25;24.05.2025 20:55;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Alert Description: Authorized User Changed | Alert ID: 506544 | DB User Name: \ user40;27.05.2025 20:40;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;DENIZ Kritik Objeler;16.12.2026 03:32;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Authorized User Changed | Alert ID: 553538 | DB User Name: \ user191;26.04.2026 22:10;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Alert Description: Authorized User Changed | Alert ID: 535758 | DB User Name: \ user279;17.07.2025 13:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Authorized User Changed | Alert ID: 571613 | DB User Name: \ user123;17.03.2026 14:16;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser85;Alert Description: Trigger Activities - All Database | Alert ID: 575594 | DB User Name: \ user366;25.06.2026 21:13;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;DENIZ Kritik Objeler;19.10.2026 12:58;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;Alert Description: Authorized User Changed | Alert ID: 589048 | DB User Name: \ user255;28.02.2026 07:04;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;SRVDNZ Kritik Objeler;17.01.2026 22:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin23;DENIZ Kritik Objeler;13.09.2025 20:41;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser99;Alert Description: KT Yakut Kritik Objeler | Alert ID: 564350 | DB User Name: \ user97;10.06.2026 22:41;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user356;10.01.2026 18:51;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: KT Yakut Kritik Objeler | Alert ID: 550454 | DB User Name: \ user41;5.07.2025 03:12;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user114;14.03.2026 20:44;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;DENIZ Kritik Objeler;8.01.2026 19:56;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;Alert Description: Trigger Activities - All Database | Alert ID: 542770 | DB User Name: \ user239;10.11.2025 05:37;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;SRVDNZ Kritik Objeler;29.04.2025 12:46;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin58;ATLAS Kritik Objeler;16.12.2025 08:31;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 528699 | DB User Name: \ user49;21.11.2025 14:05;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+rsayin;Alert Description: KT Yakut Kritik Objeler | Alert ID: 577855 | DB User Name: \ user310;2.09.2026 19:51;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser50;Alert Description: Authorized User Changed | Alert ID: 503753 | DB User Name: \ user493;17.05.2026 09:42;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+dbuser35;Alert Description: KT Yakut Kritik Objeler | Alert ID: 543208 | DB User Name: \ user55;27.10.2026 01:16;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;15.03.2025 10:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 522079 | DB User Name: \ user43;7.05.2026 00:24;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 564200 | DB User Name: \ user29;27.02.2026 10:31;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user421;26.12.2025 21:39;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Authorized User Changed | Alert ID: 518497 | DB User Name: \ user261;16.01.2025 13:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin75;Alert Description: KT Yakut Kritik Objeler | Alert ID: 531311 | DB User Name: \ user489;5.05.2026 22:49;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+tyilmaz;Alert Description: Authorized User Changed | Alert ID: 541938 | DB User Name: \ user167;23.07.2026 07:04;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;SRVDNZ Kritik Objeler;11.04.2026 01:37;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+audituser;Alert Description: Trigger Activities - All Database | Alert ID: 570794 | DB User Name: \ user303;27.09.2025 16:22;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin39;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user288;1.03.2025 23:11;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;ATLAS Kritik Objeler;27.08.2026 14:10;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+audituser;SRVDNZ Kritik Objeler;28.08.2026 23:43;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: KT Yakut Kritik Objeler | Alert ID: 500281 | DB User Name: \ user214;23.12.2025 15:19;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Trigger Activities - All Database | Alert ID: 547663 | DB User Name: \ user238;24.11.2025 19:08;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;Alert Description: Authorized User Changed | Alert ID: 551548 | DB User Name: \ user479;13.06.2026 12:27;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 573281 | DB User Name: \ user77;28.04.2026 20:57;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;ATLAS Kritik Objeler;14.12.2026 10:33;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;ATLAS Kritik Objeler;5.03.2026 12:42;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+keskinme;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user457;28.03.2025 00:02;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 581354 | DB User Name: \ user40;3.09.2025 04:54;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+admin96;DENIZ Kritik Objeler;15.08.2025 16:46;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;SRVDNZ Kritik Objeler;15.01.2026 04:54;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+admin74;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user418;18.05.2026 16:41;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+keskinme;ATLAS Kritik Objeler;27.04.2025 12:33;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 556908 | DB User Name: \ user250;28.10.2026 17:40;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+appuser;Alert Description: Trigger Activities - All Database | Alert ID: 550806 | DB User Name: \ user364;23.01.2025 21:48;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;Splunk Alert Description: DB Failed Login Alert | DB User Name: \ user113;7.01.2025 20:28;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+appuser;DENIZ Kritik Objeler;19.05.2026 19:17;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+rsayin;ATLAS Kritik Objeler;23.03.2025 13:59;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+admin7;DENIZ Kritik Objeler;23.05.2025 19:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+scakici;DENIZ Kritik Objeler;14.03.2026 13:30;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;SRVDNZ Kritik Objeler;28.01.2026 13:52;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;Alert Description: Authorized User Changed | Alert ID: 516235 | DB User Name: \ user296;2.10.2026 17:47;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;SRVDNZ Kritik Objeler;24.07.2025 00:56;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;ATLAS Kritik Objeler;4.06.2026 12:56;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser18;Alert Description: Trigger Activities - All Database | Alert ID: 590706 | DB User Name: \ user247;17.04.2026 01:05;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+audituser;Alert Description: KT Yakut Kritik Objeler | Alert ID: 587923 | DB User Name: \ user396;22.10.2026 19:09;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser48;Alert Description: KT Yakut Kritik Objeler | Alert ID: 595035 | DB User Name: \ user384;14.06.2026 21:17;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+tyilmaz;SRVDNZ Kritik Objeler;13.02.2025 12:30;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+dbuser28;Alert Description: KT Yakut Kritik Objeler | Alert ID: 542045 | DB User Name: \ user171;5.11.2025 17:02;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+keskinme;Alert Description: Authorized User Changed | Alert ID: 581711 | DB User Name: \ user2;9.11.2025 08:05;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;Alert Description: Trigger Activities - All Database | Alert ID: 588735 | DB User Name: \ user145;27.01.2026 03:55;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser46;SRVDNZ Kritik Objeler;26.06.2025 19:29;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;High
+dbuser82;DENIZ Kritik Objeler;13.10.2025 21:13;Veri Güvenliði Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+scakici;ATLAS Kritik Objeler;2.10.2026 17:00;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
+admin23;Alert Description: KT Yakut Kritik Objeler | Alert ID: 579839 | DB User Name: \ user264;10.09.2026 00:26;BT Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 559437 | DB User Name: \ user225;3.01.2025 04:39;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Medium
+tyilmaz;Alert Description: KT Yakut Kritik Objeler | Alert ID: 547147 | DB User Name: \ user34;18.01.2025 20:33;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;High
+scakici;DENIZ Kritik Objeler;27.06.2025 17:01;Kimlik Eriþim Yönetimi;Deneme amaçlý sentetik kayýttýr.;Low
+rsayin;Alert Description: Authorized User Changed | Alert ID: 519910 | DB User Name: \ user201;24.04.2025 17:55;SOC Operasyonlarý;Deneme amaçlý sentetik kayýttýr.;Low
