@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LabelList } from 'recharts';
 
 function parseDate(dateStr) {
   if (!dateStr) return null;
@@ -80,23 +80,83 @@ function analyzeData(rules) {
     });
   });
   console.log('analyzeData: ruleCount', ruleCount, 'userCount', userCount);
-  const topRules = Object.entries(ruleStats)
-    .map(([ruleName, data]) => ({ ruleName, ...data }))
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 10);
-  const topUsers = Object.entries(userStats)
-    .map(([userName, data]) => ({ userName, ...data }))
-    .sort((a, b) => b.count - a.count)
-    .slice(0, 10);
-  return { topRules, topUsers };
+  const ruleList = Object.entries(ruleStats)
+    .map(([ruleName, data]) => ({ ruleName, ...data }));
+  const userList = Object.entries(userStats)
+    .map(([userName, data]) => ({ userName, ...data }));
+  return { rules: ruleList, users: userList };
+}
+
+function detectDelimiter(firstLine) {
+  if (firstLine.indexOf('\t') >= 0) return '\t';
+  if (firstLine.indexOf(';') >= 0) return ';';
+  return ',';
+}
+
+function splitLine(line, delim) {
+  if (delim === '\t') return line.split('\t');
+  const result = [];
+  let current = '';
+  let inQuotes = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '"') {
+      inQuotes = !inQuotes;
+      continue;
+    }
+    if (ch === delim && !inQuotes) {
+      result.push(current);
+      current = '';
+      continue;
+    }
+    current += ch;
+  }
+  result.push(current);
+  return result.map((s) => s.trim());
+}
+
+function normalizeHeader(h) {
+  return (h || '').toString().trim().toLowerCase().replace(/[_\s\-]/g, '');
+}
+
+function normalizeRows(rows) {
+  return rows.map((row) => {
+    const normalized = {};
+    Object.keys(row || {}).forEach((key) => {
+      normalized[normalizeHeader(key)] = row[key];
+    });
+    return normalized;
+  });
+}
+
+function extractAlertName(raw) {
+  const value = (raw || '').toString().trim();
+  if (!value) return '';
+
+  const labels = ['Splunk Alert Description:', 'Alert Description:'];
+  const lowerValue = value.toLowerCase();
+  for (let i = 0; i < labels.length; i++) {
+    const label = labels[i];
+    const labelIndex = lowerValue.indexOf(label.toLowerCase());
+    if (labelIndex >= 0) {
+      const afterLabel = value.slice(labelIndex + label.length).trim();
+      const pipeIndex = afterLabel.indexOf('|');
+      return (pipeIndex >= 0 ? afterLabel.slice(0, pipeIndex) : afterLabel).trim();
+    }
+  }
+
+  const pipeIndex = value.indexOf('|');
+  return (pipeIndex >= 0 ? value.slice(0, pipeIndex) : value).trim();
 }
 
 function parseCsvText(text) {
   const lines = text.split(/\r?\n/).filter((l) => l.trim().length > 0);
   if (!lines.length) return [];
-  const headers = lines[0].split(';').map((h) => h.trim());
+  const delim = detectDelimiter(lines[0]);
+  const headersRaw = splitLine(lines[0], delim);
+  const headers = headersRaw.map(normalizeHeader);
   return lines.slice(1).map((line) => {
-    const cols = line.split(';');
+    const cols = splitLine(line, delim);
     const row = {};
     headers.forEach((h, i) => {
       row[h] = (cols[i] ?? '').trim();
@@ -108,26 +168,27 @@ function parseCsvText(text) {
 function buildRulesFromRows(rows) {
   const ruleMap = {};
   rows.forEach((row) => {
-    const ruleName = row.AlarmDetail || row.alarmDetail || row.RuleName || row.ruleName;
-    if (!ruleName) return;
+    const rawRuleName = row.alarmdetail || row.alarm || row.alarmdescription || row.activitydescription || row.rulename;
+    const ruleName = extractAlertName(rawRuleName) || 'Unknown Rule';
     if (!ruleMap[ruleName]) {
       ruleMap[ruleName] = {
         ruleName,
         users: {}
       };
     }
-    const userName = row.UserName || row.userName || 'Unknown';
+    const userName = row.username || row.user || row.useremail || 'Unknown';
     if (!ruleMap[ruleName].users[userName]) {
       ruleMap[ruleName].users[userName] = {
         name: userName,
-        team: row.Company || row.company || '',
+        team: row.company || row.team || '',
         triggerCount: 0,
-        systemDate: row.SystemDate || row.systemDate || '',
-        activity: row.ActivityDescription || row.activityDescription || '',
-        severity: row.Severity || row.severity || ''
+        systemDate: row.systemdate || row.date || '',
+        activity: row.activitydescription || row.activity || row.description || '',
+        severity: row.severity || ''
       };
     }
-    ruleMap[ruleName].users[userName].triggerCount += 1;
+    const count = parseInt(row.count || row.triggercount || row.occurrences || '1', 10) || 1;
+    ruleMap[ruleName].users[userName].triggerCount += count;
   });
   return Object.values(ruleMap).map((rule) => ({
     ...rule,
@@ -182,9 +243,26 @@ export default function TrendAnalysis() {
 
   useEffect(() => {
     let cancelled = false;
-    const loadLocalCsv = async () => {
+    const loadFromBackend = async () => {
       setLoading(true);
       setError(null);
+      try {
+        const res = await fetch('http://localhost:4000/alerts');
+        if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+        const records = await res.json();
+        if (cancelled) return true;
+        if (!Array.isArray(records)) throw new Error('Unexpected backend response');
+        const rows = normalizeRows(records);
+        setRules(buildRulesFromRows(rows));
+        setSourceInfo('Backend SQL loaded from /alerts');
+        setLoading(false);
+        return true;
+      } catch (err) {
+        return false;
+      }
+    };
+
+    const loadLocalCsv = async () => {
       try {
         const res = await fetch('/DAM_Alerts_v2.csv');
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
@@ -196,12 +274,17 @@ export default function TrendAnalysis() {
         setLoading(false);
       } catch (err) {
         if (cancelled) return;
-        setSourceInfo('Local CSV not found. Please select a CSV file.');
+        setSourceInfo('Backend unavailable and local CSV not found. Please select a CSV file.');
         setLoading(false);
       }
     };
 
-    loadLocalCsv();
+    const loadData = async () => {
+      const loaded = await loadFromBackend();
+      if (!loaded) await loadLocalCsv();
+    };
+
+    loadData();
     return () => {
       cancelled = true;
     };
@@ -250,7 +333,7 @@ export default function TrendAnalysis() {
       </div>
     </section>
   );
-  if (data.topRules.length === 0 && data.topUsers.length === 0) {
+  if (data.rules.length === 0 && data.users.length === 0) {
     return <section className="panel"><p>Hiç veri bulunamadı. Tarih formatlarını ve verileri kontrol edin.</p></section>;
   }
 
@@ -261,23 +344,48 @@ export default function TrendAnalysis() {
   const userEndDate = userEnd ? new Date(userEnd) : null;
 
   // Filtrelenmiş kurallar ve kullanıcılar
-  const filteredRules = data.topRules.filter(rule => {
-    if (!rule.ruleName.toLowerCase().includes(ruleSearch.toLowerCase())) return false;
-    // Tarih aralığına göre filtrele
-    if (ruleStartDate || ruleEndDate) {
-      const total = getTotalForPeriodInRange(rule.temporal, ruleStartDate, ruleEndDate);
-      return total > 0;
-    }
-    return true;
-  });
-  const filteredUsers = data.topUsers.filter(user => {
-    if (!user.userName.toLowerCase().includes(userSearch.toLowerCase())) return false;
-    if (userStartDate || userEndDate) {
-      const total = getTotalForPeriodInRange(user.temporal, userStartDate, userEndDate);
-      return total > 0;
-    }
-    return true;
-  });
+  const filteredRules = data.rules
+    .map((rule) => {
+      const total = (ruleStartDate || ruleEndDate)
+        ? getTotalForPeriodInRange(rule.temporal, ruleStartDate, ruleEndDate)
+        : getTotalForPeriod(rule.temporal, 'daily');
+      return { ...rule, total };
+    })
+    .filter((rule) => {
+      if (!rule.ruleName.toLowerCase().includes(ruleSearch.toLowerCase())) return false;
+      if (ruleStartDate || ruleEndDate) return rule.total > 0;
+      return true;
+    })
+    .sort((a, b) => b.total - a.total)
+    .slice(0, 10);
+
+  const filteredUsers = data.users
+    .map((user) => {
+      const total = (userStartDate || userEndDate)
+        ? getTotalForPeriodInRange(user.temporal, userStartDate, userEndDate)
+        : getTotalForPeriod(user.temporal, 'daily');
+      return { ...user, total };
+    })
+    .filter((user) => {
+      if (!user.userName.toLowerCase().includes(userSearch.toLowerCase())) return false;
+      if (userStartDate || userEndDate) return user.total > 0;
+      return true;
+    })
+    .sort((a, b) => b.total - a.total)
+    .slice(0, 10);
+
+  const ruleChartData = filteredRules.map((rule) => ({
+    name: rule.ruleName,
+    count: rule.total
+  }));
+
+  const userChartData = filteredUsers.map((user) => ({
+    name: user.userName,
+    count: user.total
+  }));
+
+  const ruleTitle = (ruleStartDate || ruleEndDate) ? 'Filtered Top 10 Rules' : 'Top 10 Rules';
+  const userTitle = (userStartDate || userEndDate) ? 'Filtered Top 10 Users' : 'Top 10 Users';
 
   return (
     <section className="panel">
@@ -290,7 +398,7 @@ export default function TrendAnalysis() {
       {/* ALARMS SECTION */}
       <div style={{ marginBottom: '40px', paddingBottom: '24px', borderBottom: '1px solid rgba(255,255,255,0.05)' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-          <h3 style={{ margin: 0, fontSize: '16px' }}>Top 10 Rules</h3>
+          <h3 style={{ margin: 0, fontSize: '16px' }}>{ruleTitle}</h3>
         </div>
         {/* Rule Name Search */}
         <input
@@ -323,49 +431,49 @@ export default function TrendAnalysis() {
             placeholder="Bitiş tarihi"
           />
         </div>
-        <table className="table">
-          <thead>
-            <tr>
-              <th>Rule Name</th>
-              <th style={{ textAlign: 'right' }}>Count</th>
-              <th>Grafik</th>
-            </tr>
-          </thead>
-          <tbody>
-            {filteredRules.map((rule, i) => {
-              const total = (ruleStartDate || ruleEndDate)
-                ? getTotalForPeriodInRange(rule.temporal, ruleStartDate, ruleEndDate)
-                : Object.values(rule.temporal.daily || {}).reduce((sum, count) => sum + count, 0);
-              const chartData = getChartData(rule.temporal, ruleStartDate, ruleEndDate);
-              return (
-                <tr key={i}>
-                  <td>{rule.ruleName}</td>
-                  <td style={{ textAlign: 'right', fontWeight: 600, color: '#f97316' }}>{total}</td>
-                  <td>
-                    <div style={{ width: 120, height: 40 }}>
-                      <ResponsiveContainer width="100%" height="100%">
-                        <BarChart data={chartData}>
-                          <Bar dataKey="count" fill="#f97316" radius={[4, 4, 0, 0]} />
-                          <XAxis dataKey="date" hide={true} />
-                          <YAxis hide={true} />
-                          <Tooltip />
-                        </BarChart>
-                      </ResponsiveContainer>
-                    </div>
-                  </td>
+        <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <table className="table">
+              <thead>
+                <tr>
+                  <th>Rule Name</th>
+                  <th style={{ textAlign: 'right' }}>Count</th>
                 </tr>
-              );
-            })}
-            {filteredRules.length === 0 && (
-              <tr><td colSpan={3} style={{ textAlign: 'center', color: '#aaa' }}>Kural bulunamadı</td></tr>
-            )}
-          </tbody>
-        </table>
+              </thead>
+              <tbody>
+                {filteredRules.map((rule, i) => (
+                  <tr key={i}>
+                    <td>{rule.ruleName}</td>
+                    <td style={{ textAlign: 'right', fontWeight: 600, color: '#f97316' }}>{rule.total}</td>
+                  </tr>
+                ))}
+                {filteredRules.length === 0 && (
+                  <tr><td colSpan={2} style={{ textAlign: 'center', color: '#aaa' }}>Kural bulunamadı</td></tr>
+                )}
+              </tbody>
+            </table>
+          </div>
+          <div style={{ width: 320, border: '1px dashed rgba(255,255,255,0.15)', borderRadius: 8, padding: 12 }}>
+            <div style={{ fontSize: 12, color: '#94a3b8', marginBottom: 8 }}>Grafik</div>
+            <div style={{ width: '100%', height: 260 }}>
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={ruleChartData} layout="vertical" margin={{ left: 8, right: 8 }}>
+                  <XAxis type="number" hide={true} />
+                  <YAxis dataKey="name" type="category" width={120} tick={{ fill: '#94a3b8', fontSize: 11 }} />
+                  <Tooltip />
+                  <Bar dataKey="count" fill="#f97316" radius={[0, 4, 4, 0]}>
+                    <LabelList dataKey="count" position="right" fill="#e2e8f0" fontSize={11} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+        </div>
       </div>
       {/* USERS SECTION */}
       <div>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-          <h3 style={{ margin: 0, fontSize: '16px' }}>Top 10 Users</h3>
+          <h3 style={{ margin: 0, fontSize: '16px' }}>{userTitle}</h3>
         </div>
         {/* User Search */}
         <input
@@ -398,46 +506,46 @@ export default function TrendAnalysis() {
             placeholder="Bitiş tarihi"
           />
         </div>
-        <table className="table">
-          <thead>
-            <tr>
-              <th>User</th>
-              <th>Team</th>
-              <th style={{ textAlign: 'right' }}>Count</th>
-              <th>Grafik</th>
-            </tr>
-          </thead>
-          <tbody>
-            {filteredUsers.map((user, i) => {
-              const total = (userStartDate || userEndDate)
-                ? getTotalForPeriodInRange(user.temporal, userStartDate, userEndDate)
-                : Object.values(user.temporal.daily || {}).reduce((sum, count) => sum + count, 0);
-              const chartData = getChartData(user.temporal, userStartDate, userEndDate);
-              return (
-                <tr key={i}>
-                  <td>{user.userName}</td>
-                  <td>{user.team || '—'}</td>
-                  <td style={{ textAlign: 'right', fontWeight: 600, color: '#10b981' }}>{total}</td>
-                  <td>
-                    <div style={{ width: 120, height: 40 }}>
-                      <ResponsiveContainer width="100%" height="100%">
-                        <BarChart data={chartData}>
-                          <Bar dataKey="count" fill="#10b981" radius={[4, 4, 0, 0]} />
-                          <XAxis dataKey="date" hide={true} />
-                          <YAxis hide={true} />
-                          <Tooltip />
-                        </BarChart>
-                      </ResponsiveContainer>
-                    </div>
-                  </td>
+        <div style={{ display: 'flex', gap: '16px', alignItems: 'flex-start' }}>
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <table className="table">
+              <thead>
+                <tr>
+                  <th>User</th>
+                  <th>Team</th>
+                  <th style={{ textAlign: 'right' }}>Count</th>
                 </tr>
-              );
-            })}
-            {filteredUsers.length === 0 && (
-              <tr><td colSpan={4} style={{ textAlign: 'center', color: '#aaa' }}>Kullanıcı bulunamadı</td></tr>
-            )}
-          </tbody>
-        </table>
+              </thead>
+              <tbody>
+                {filteredUsers.map((user, i) => (
+                  <tr key={i}>
+                    <td>{user.userName}</td>
+                    <td>{user.team || '—'}</td>
+                    <td style={{ textAlign: 'right', fontWeight: 600, color: '#10b981' }}>{user.total}</td>
+                  </tr>
+                ))}
+                {filteredUsers.length === 0 && (
+                  <tr><td colSpan={3} style={{ textAlign: 'center', color: '#aaa' }}>Kullanıcı bulunamadı</td></tr>
+                )}
+              </tbody>
+            </table>
+          </div>
+          <div style={{ width: 320, border: '1px dashed rgba(255,255,255,0.15)', borderRadius: 8, padding: 12 }}>
+            <div style={{ fontSize: 12, color: '#94a3b8', marginBottom: 8 }}>Grafik</div>
+            <div style={{ width: '100%', height: 260 }}>
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={userChartData} layout="vertical" margin={{ left: 8, right: 8 }}>
+                  <XAxis type="number" hide={true} />
+                  <YAxis dataKey="name" type="category" width={120} tick={{ fill: '#94a3b8', fontSize: 11 }} />
+                  <Tooltip />
+                  <Bar dataKey="count" fill="#10b981" radius={[0, 4, 4, 0]}>
+                    <LabelList dataKey="count" position="right" fill="#e2e8f0" fontSize={11} />
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );

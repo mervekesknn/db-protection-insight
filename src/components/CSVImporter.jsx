@@ -30,6 +30,26 @@ function splitLine(line, delim) {
 
 function normalizeHeader(h) { return (h||'').toString().trim().toLowerCase().replace(/[_\s\-]/g,'') }
 
+function extractAlertName(raw) {
+  const value = (raw || '').toString().trim()
+  if (!value) return ''
+
+  const labels = ['Splunk Alert Description:', 'Alert Description:']
+  const lowerValue = value.toLowerCase()
+  for (let i = 0; i < labels.length; i++) {
+    const label = labels[i]
+    const labelIndex = lowerValue.indexOf(label.toLowerCase())
+    if (labelIndex >= 0) {
+      const afterLabel = value.slice(labelIndex + label.length).trim()
+      const pipeIndex = afterLabel.indexOf('|')
+      return (pipeIndex >= 0 ? afterLabel.slice(0, pipeIndex) : afterLabel).trim()
+    }
+  }
+
+  const pipeIndex = value.indexOf('|')
+  return (pipeIndex >= 0 ? value.slice(0, pipeIndex) : value).trim()
+}
+
 function parseCSV(text) {
   const lines = text.split(/\r?\n/).filter((l) => l.trim() !== '')
   if (lines.length === 0) return []
@@ -49,7 +69,8 @@ function generateRulesFromRows(rows) {
   const ruleMap = new Map()
 
   rows.forEach((r) => {
-    const ruleName = r['alarmdetail'] || r['alarm'] || r['alarmdescription'] || r['activitydescription'] || 'Unknown Rule'
+    const rawRuleName = r['alarmdetail'] || r['alarm'] || r['alarmdescription'] || r['activitydescription'] || 'Unknown Rule'
+    const ruleName = extractAlertName(rawRuleName) || 'Unknown Rule'
     const user = r['username'] || r['user'] || r['useremail'] || 'unknown'
     const team = r['company'] || r['team'] || ''
     const systemDate = r['systemdate'] || r['date'] || ''
